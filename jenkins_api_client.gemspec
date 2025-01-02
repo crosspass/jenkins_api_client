@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
   s.homepage = 'https://github.com/arangamani/jenkins_api_client'
   s.required_ruby_version = ::Gem::Requirement.new('~> 2.1')
-  s.rubygems_version = "2.4.5.1"
   s.summary = "Jenkins JSON API Client"
   s.licenses = ["MIT"]
 
